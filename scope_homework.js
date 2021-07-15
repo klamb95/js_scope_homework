@@ -9,10 +9,11 @@
 //   }
   
 //   const verdict = declareMurderer();
-// //   console.log(verdict);
-  the murderer is miss scarlet
+//   console.log(verdict);
 
+  // the murderer is miss scarlet
 
+// 
 // const murderer = 'Professor Plum';
 
 // const changeMurderer = function() {
@@ -27,7 +28,7 @@
 // const verdict = declareMurderer();
 // console.log(verdict);
 
-the murderer is mrs peacock 
+// the murderer is mrs peacock 
 
 
 // let murderer = 'Professor Plum';
@@ -43,7 +44,7 @@ the murderer is mrs peacock
 // const secondVerdict = `The murderer is ${murderer}.`;
 // console.log('Second Verdict: ', secondVerdict);
 
-first murderer is mrs peacock, second professor plum 
+// first murderer is mrs peacock, second professor plum 
 
 // let suspectOne = 'Miss Scarlet';
 // let suspectTwo = 'Professor Plum';
@@ -58,8 +59,8 @@ first murderer is mrs peacock, second professor plum
 // console.log(suspects);
 // console.log(`Suspect three is ${suspectThree}.`);
 
-three suspects are Miss Scarlet, Professor Plum, Colonel Mustard
-suspect three is mrs peacock
+// three suspects are Miss Scarlet, Professor Plum, Colonel Mustard
+// suspect three is mrs peacock
 
 // const scenario = {
 //     murderer: 'Miss Scarlet',
@@ -79,7 +80,7 @@ suspect three is mrs peacock
 //   const verdict = declareWeapon();
 //   console.log(verdict);
 
-the weapon is revolver
+// the weapon is revolver
 
 // let murderer = 'Colonel Mustard';
 
@@ -100,7 +101,7 @@ the weapon is revolver
 // changeMurderer();
 // const verdict = declareMurderer();
 // console.log(verdict);
-the murderer is mrs white
+// the murderer is mrs white
 
 // let murderer = 'Professor Plum';
 
@@ -128,7 +129,7 @@ the murderer is mrs white
 // const verdict = declareMurderer();
 // console.log(verdict);
 
-the murderer is mr green
+// the murderer is mr green
 
 // const scenario = {
 //     murderer: 'Mrs. Peacock',
@@ -165,19 +166,19 @@ the murderer is mr green
 //   const verdict = declareWeapon();
 //   console.log(verdict);
 
-  the weapon is candle stick (dont understand this one!)
+  // the weapon is candle stick (dont understand this one!)
 
-// let murderer = 'Professor Plum';
+let murderer = 'Professor Plum';
 
-// if (murderer === 'Professor Plum') {
-//   let murderer = 'Mrs. Peacock';
-// }
+if (murderer === 'Professor Plum') {
+  let murderer = 'Mrs. Peacock';
+}
 
-// const declareMurderer = function() {
-//   return `The murderer is ${murderer}.`;
-// }
+const declareMurderer = function() {
+  return `The murderer is ${murderer}.`;
+}
 
-// const verdict = declareMurderer();
-// console.log(verdict);
+const verdict = declareMurderer();
+console.log(verdict);
 
-the murderer is professor plum (I thought the answer was mrs peacock)
+// the murderer is professor plum (I thought the answer was mrs peacock)
